@@ -1,0 +1,108 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Wireless Headphones",
+      "price": 50.99,
+      "category": "Electronics",
+      "image": "https://via.placeholder.com/300",
+      "description": "High-quality wireless headphones with noise cancellation.",
+      "store": "Tech World",
+      "rating": 4.5
+    },
+    {
+      "id": 2,
+      "name": "Smart Watch",
+      "price": 89.99,
+      "category": "Electronics",
+      "image": "https://via.placeholder.com/300",
+      "description": "Track your fitness and notifications with this smart watch.",
+      "store": "Gadget Hub",
+      "rating": 4.3
+    },
+    {
+      "id": 3,
+      "name": "Running Shoes",
+      "price": 45.00,
+      "category": "Fashion",
+      "image": "https://via.placeholder.com/300",
+      "description": "Comfortable and durable running shoes for daily workouts.",
+      "store": "Sporty",
+      "rating": 4.2
+    },
+    {
+      "id": 4,
+      "name": "Backpack",
+      "price": 25.50,
+      "category": "Accessories",
+      "image": "https://via.placeholder.com/300",
+      "description": "Stylish backpack with multiple compartments.",
+      "store": "Bag Corner",
+      "rating": 4.0
+    },
+    {
+      "id": 5,
+      "name": "Bluetooth Speaker",
+      "price": 35.75,
+      "category": "Electronics",
+      "image": "https://via.placeholder.com/300",
+      "description": "Portable speaker with powerful sound and long battery life.",
+      "store": "Sound Store",
+      "rating": 4.6
+    }
+  ],
+  
+  "books": [
+    {
+      "id": 1,
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "price": 15.99,
+      "category": "Self Development",
+      "image": "https://via.placeholder.com/300",
+      "description": "A practical guide to building good habits and breaking bad ones.",
+      "rating": 4.8
+    },
+    {
+      "id": 2,
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "price": 12.50,
+      "category": "Fiction",
+      "image": "https://via.placeholder.com/300",
+      "description": "A story about following your dreams and listening to your heart.",
+      "rating": 4.6
+    },
+    {
+      "id": 3,
+      "title": "Rich Dad Poor Dad",
+      "author": "Robert Kiyosaki",
+      "price": 14.00,
+      "category": "Finance",
+      "image": "https://via.placeholder.com/300",
+      "description": "Lessons on money, investing, and financial independence.",
+      "rating": 4.5
+    },
+    {
+      "id": 4,
+      "title": "Deep Work",
+      "author": "Cal Newport",
+      "price": 16.75,
+      "category": "Productivity",
+      "image": "https://via.placeholder.com/300",
+      "description": "Rules for focused success in a distracted world.",
+      "rating": 4.7
+    },
+    {
+      "id": 5,
+      "title": "Harry Potter and the Sorcerer's Stone",
+      "author": "J.K. Rowling",
+      "price": 18.99,
+      "category": "Fantasy",
+      "image": "https://via.placeholder.com/300",
+      "description": "The first book of the Harry Potter series.",
+      "rating": 4.9
+    }
+  ]
+
+}
